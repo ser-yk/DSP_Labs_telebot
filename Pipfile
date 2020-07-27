@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+peewee = "*"
+pytelegrambotapi = "==3.7.1"
+pip = "==20.1.1"
+opencv-python-headless = "==4.2.0.34"
+
+[requires]
+python_version = "3.7"
